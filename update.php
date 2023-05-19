@@ -65,19 +65,9 @@ else {
             <tr>
                 <td><input type="submit" name="submit" value="UPDATE"></td>
             </tr>
-
-
-
-
-
-
-
-
-
-
-
-
         </table>
     </form>
+
+
 </body>
 </html>
